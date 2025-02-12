@@ -7,7 +7,7 @@ const TypingAnimation = () => {
     return (
         <div style={{
             position: 'absolute',
-            height: '101vh',
+            height: '100vh',
             width: '100%',
             display: 'flex',
             flexDirection: 'column',
@@ -39,7 +39,7 @@ const TypingAnimation = () => {
             </div>
             <div style={{
                 position: 'absolute',
-                bottom: '10px',
+                bottom: '20px',
                 left: '50%',
                 transform: 'translateX(-50%)',
                 color: '#f0f0f0', // Dark blue color

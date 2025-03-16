@@ -51,7 +51,7 @@ function AboutMe() {
         >
             <h2>About Me</h2>
             <p style={{ textAlign: 'justify', lineHeight: '2' }}> {/* Justify the paragraph text */}
-                Master of IT student with 3+ years of hands-on expertise in <b>AI, DevOps, and Full-Stack development</b>. Proven adaptability and collaboration skills through internships, alongside exceptional academic achievements. Delivered scalable solutions across insurance (firewall alerts automation), manufacturing (coating defects detection), and logistics (cloud resources management). Australian Permanent Resident (full working rights).
+                I am Rain, a master of IT student with 3+ years of hands-on expertise in <b>AI, DevOps, and Full-Stack development</b>. Proven adaptability and collaboration skills through internships, alongside exceptional academic achievements. Delivered scalable solutions across insurance (firewall alerts automation), manufacturing (coating defects detection), and logistics (cloud resources management). Australian Permanent Resident (full working rights).
             </p>
 
             {/* Social Media Icons */}

@@ -39,7 +39,7 @@ const TypingAnimation = () => {
             </div>
             <div style={{
                 position: 'absolute',
-                bottom: '20px',
+                bottom: '30px',
                 left: '50%',
                 transform: 'translateX(-50%)',
                 color: '#f0f0f0', // Dark blue color

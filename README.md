@@ -8,6 +8,7 @@ This is my portfolio website built with `ReactJS` and `ThreeJS`.
 `npm start`
 
 <b>To deploy on GitHub Pages</b>:<br>
-`npm run deploy`
+Set "homepage": "https://Rain-Poon.github.io/DigitalSpace" in `package.json` before deploying.
+`npm run deploy`  
 
 Icons from [react-icons](https://react-icons.github.io/react-icons/)

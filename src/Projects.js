@@ -52,27 +52,27 @@ const projects = [
   },
   {
     title: 'Face Verification',
-    image: 'https://placehold.co/300',
+    image: `${process.env.PUBLIC_URL}/faceVerification.png`,
     skills: ['Python', 'PyTorch', 'GitHub', 'VisionTransformer'],
   },
   {
     title: 'Azul AI Agent',
-    image: 'https://placehold.co/300',
+    image: `${process.env.PUBLIC_URL}/azul.jpg`,
     skills: ['Python', 'PyTorch', 'GitHub', 'Algorithm'],
   },
   {
     title: 'LoungePass',
-    image: 'https://placehold.co/300',
+    image: `${process.env.PUBLIC_URL}/LoungePass.png`,
     skills: ['Swift', 'MongoDB', 'Flask', 'GitHub'],
   },
   {
     title: 'Lung Cancer Detection',
-    image: 'https://placehold.co/300',
+    image: `${process.env.PUBLIC_URL}/lungCell.png`,
     skills: ['Python', 'PyTorch', 'GitHub', 'CNN'],
   },
   {
     title: 'Cathay Plus',
-    image: 'https://placehold.co/300',
+    image: `${process.env.PUBLIC_URL}/cathay.png`,
     skills: ['React', 'Nodejs', 'MongoDB', 'JavaScript', 'HTML', 'CSS', 'GitHub', 'AWS'],
   },
 ];
